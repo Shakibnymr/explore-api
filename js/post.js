@@ -20,3 +20,4 @@ function displayPosts (posts){
 }
 
 loadData();
+
